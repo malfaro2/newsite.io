@@ -13,15 +13,7 @@ website:
     style: "docked"
     search: true
     contents:
-      - part_1_prep.qmd
-      - part_2_eda.qmd
+      - assessments.qmd
+      - weeks.qmd
   page-navigation: true
-  page-footer: 
-    left: "CC-BY, Marcela Alfaro Córdoba" 
-    right: 
-      - icon: github
-        href: https://github.com/malfaro2
-      - icon: twitter 
-        href: https://twitter.com/macordob
-        
 
