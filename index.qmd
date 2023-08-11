@@ -2,6 +2,9 @@
 title: "STAT/CSE 266 A"
 image: img/ucsc.png
 about:
+  template: trestles
+  image-shape: round
+  image-width: 23em
   links:
     - text: Canvas
       href: https://canvas.ucsc.edu/courses/64785
