@@ -1,11 +1,8 @@
 ---
-title: "malfaro2.github.io"
+title: "Marcela Alfaro Córdoba"
+image: profile.jpg
+about:
+  template: jolla
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Assistant Teaching Professor at the University of California, Santa Cruz. She is interested in developing novel statistical methods to address scientific questions related to the environment, and turning those experiences of interdisciplinary collaboration into teaching methods for statistics and data science. Her areas of application include climate models, biophysics, spectrophotometry, among others.
