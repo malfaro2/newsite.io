@@ -23,7 +23,8 @@ website:
       - icon: github
         href: https://github.com/malfaro2
       - icon: twitter 
-        href: https://twitter.com/macordob 
+        href: https://twitter.com/macordob
+        
 format:
   html:
     theme: 
