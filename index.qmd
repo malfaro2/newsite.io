@@ -1,8 +1,19 @@
 ---
 title: "Marcela Alfaro Córdoba"
-image: profile.jpg
+image: img/profile.jpg
 about:
-  template: jolla
+  template: trestles
+  image-shape: round
+  image-width: 23em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/malfaro18/
+    - text: Twitter
+      href: https://twitter.com/macordob
+    - text: GitHub
+      href: https://github.com/malfaro2
+    - text: Email
+      href: mailto:macordob@ucsc.edu
 ---
 
 Assistant Teaching Professor at the University of California, Santa Cruz. She is interested in developing novel statistical methods to address scientific questions related to the environment, and turning those experiences of interdisciplinary collaboration into teaching methods for statistics and data science. Her areas of application include climate models, biophysics, spectrophotometry, among others.
