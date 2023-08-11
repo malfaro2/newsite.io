@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "STAT/CSE 266 A",
     "section": "",
-    "text": "Welcome to STAT/CSE 266A! This course introduces students to data visualization and statistical programming techniques using the R language. Covers the basics of the language, descriptive statistics, visual analytics, and applied linear regression.\n\n\nThis class takes a “learn by doing” approach. Weekly lectures and discussion section will focus on walking through code examples and giving students the opportunity to complete assignments in class. Students are strongly encouraged to follow along with the coding examples in class, which are hosted on Google Colab and are accessible from Canvas."
+    "text": "Welcome to STAT/CSE 266A! This course introduces students to data visualization and statistical programming techniques using the R language. Covers the basics of the language, descriptive statistics, visual analytics, and applied linear regression."
   },
   {
     "objectID": "about.html",
@@ -31,7 +31,14 @@
     "objectID": "index.html#learning-goals",
     "href": "index.html#learning-goals",
     "title": "STAT/CSE 266 A",
+    "section": "Learning Goals",
+    "text": "Learning Goals\nThis class takes a “learn by doing” approach. Weekly lectures and discussion section will focus on walking through code examples and giving students the opportunity to complete assignments in class. Students are strongly encouraged to follow along with the coding examples in class."
+  },
+  {
+    "objectID": "weeks.html",
+    "href": "weeks.html",
+    "title": "Weekly Calendar",
     "section": "",
-    "text": "This class takes a “learn by doing” approach. Weekly lectures and discussion section will focus on walking through code examples and giving students the opportunity to complete assignments in class. Students are strongly encouraged to follow along with the coding examples in class, which are hosted on Google Colab and are accessible from Canvas."
+    "text": "week\n\n\nDate\n\n\ntopics\n\n\nreading\n\n\nassessments\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]

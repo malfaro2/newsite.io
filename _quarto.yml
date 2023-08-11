@@ -4,18 +4,31 @@ project:
 
 website:
   title: "STAT/CSE 266A"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-      - courses.qmd
-      - assessments.qmd
-      - weeks.qmd
-
+  sidebar:
+    search: true
+    contents:
+      - section: "About"
+        contents:
+          - about.qmd
+          - courses.qmd
+      - section: "Schedule"
+        contents:
+          - weeks.qmd
+      - section: "Assessments"
+        contents:
+          - assessments.qmd
+    page-footer: 
+    left: "CC-BY, Marcela Alfaro Córdoba" 
+    right: 
+      - icon: github
+        href: https://github.com/malfaro2
+      - icon: twitter 
+        href: https://twitter.com/macordob 
 format:
   html:
-    theme: cosmo
+    theme: 
+      light: minty
+      dark: slate
     css: styles.css
     page-layout: full
 

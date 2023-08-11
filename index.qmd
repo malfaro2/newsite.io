@@ -2,7 +2,7 @@
 title: "STAT/CSE 266 A"
 image: img/ucsc.png
 about:
-  template: trestles
+  template: marquee
   image-width: 21em
   links:
     - text: Canvas
@@ -11,14 +11,8 @@ about:
       href: https://edstem.org/us/courses/42459
 ---
 
-### 
-
-::: {#hero-heading}
 Welcome to STAT/CSE 266A! This course introduces students to data visualization and statistical programming techniques using the R language. Covers the basics of the language, descriptive statistics, visual analytics, and applied linear regression.
 
 ## Learning Goals
 
-This class takes a "learn by doing" approach. Weekly lectures and discussion section will focus on walking through code examples and giving students the opportunity to complete assignments in class. Students are strongly encouraged to follow along with the coding examples in class, which are hosted on Google Colab and are accessible from Canvas.
-:::
-
-### 
+This class takes a "learn by doing" approach. Weekly lectures and discussion section will focus on walking through code examples and giving students the opportunity to complete assignments in class. Students are strongly encouraged to follow along with the coding examples in class.
