@@ -4,7 +4,7 @@ image: img/profile.jpg
 about:
   template: trestles
   image-shape: round
-  image-width: 23em
+  image-width: 21em
   links:
     - text: LinkedIn
       href: https://www.linkedin.com/in/malfaro18/

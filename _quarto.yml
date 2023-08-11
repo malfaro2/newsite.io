@@ -3,18 +3,19 @@ project:
   output-dir: docs
 
 website:
-  title: "malfaro2.github.io"
+  title: "Marcela Alfaro Córdoba"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - courses.qmd
 
 format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
+    page-layout: full
 
 editor: visual
 
