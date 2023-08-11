@@ -3,13 +3,15 @@ project:
   output-dir: docs
 
 website:
-  title: "Marcela Alfaro Córdoba"
+  title: "STAT/CSE 266A"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
       - courses.qmd
+      - assessments.qmd
+      - weeks.qmd
 
 format:
   html:

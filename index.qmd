@@ -1,39 +1,24 @@
 ---
-title: "Marcela Alfaro Córdoba"
-image: img/profile.jpg
+title: "STAT/CSE 266 A"
+image: img/ucsc.png
 about:
   template: trestles
-  image-shape: round
   image-width: 21em
   links:
-    - text: LinkedIn
-      href: https://www.linkedin.com/in/malfaro18/
-    - text: Twitter
-      href: https://twitter.com/macordob
-    - text: GitHub
-      href: https://github.com/malfaro2
-    - text: Email
-      href: mailto:macordob@ucsc.edu
+    - text: Canvas
+      href: https://canvas.ucsc.edu/courses/64785
+    - text: Ed Discussion
+      href: https://edstem.org/us/courses/42459
 ---
 
 ### 
 
 ::: {#hero-heading}
-Marcela is an assistant teaching professor at the University of California, Santa Cruz. She is interested in developing novel statistical methods to address scientific questions related to the environment, and turning those experiences of interdisciplinary collaboration into teaching methods for statistics and data science. Her areas of application include climate models, biophysics, spectrophotometry, among others.
+Welcome to STAT/CSE 266A! This course introduces students to data visualization and statistical programming techniques using the R language. Covers the basics of the language, descriptive statistics, visual analytics, and applied linear regression.
 
-## Education
+## Learning Goals
 
-North Carolina State University \| Raleigh, NC PhD in Statistics
-
-Iowa State University \| Ames, IA M.Sc in Statistics
-
-Universidad de Costa Rica \| San José, Costa Rica B.Sc in Statistics
-
-## Experience
-
-Assistant Teaching Professor \| University of California Santa Cruz \| March 2021 - present
-
-Assistant Professor \| Universidad de Costa Rica \| June 2017 - Feb 2021
+This class takes a "learn by doing" approach. Weekly lectures and discussion section will focus on walking through code examples and giving students the opportunity to complete assignments in class. Students are strongly encouraged to follow along with the coding examples in class, which are hosted on Google Colab and are accessible from Canvas.
 :::
 
 ### 

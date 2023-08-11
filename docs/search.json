@@ -2,14 +2,14 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Marcela Alfaro Córdoba",
+    "title": "STAT/CSE 266 A",
     "section": "",
-    "text": "Marcela is an assistant teaching professor at the University of California, Santa Cruz. She is interested in developing novel statistical methods to address scientific questions related to the environment, and turning those experiences of interdisciplinary collaboration into teaching methods for statistics and data science. Her areas of application include climate models, biophysics, spectrophotometry, among others.\n\n\nNorth Carolina State University | Raleigh, NC PhD in Statistics\nIowa State University | Ames, IA M.Sc in Statistics\nUniversidad de Costa Rica | San José, Costa Rica B.Sc in Statistics\n\n\n\nAssistant Teaching Professor | University of California Santa Cruz | March 2021 - present\nAssistant Professor | Universidad de Costa Rica | June 2017 - Feb 2021"
+    "text": "Welcome to STAT/CSE 266A! This course introduces students to data visualization and statistical programming techniques using the R language. Covers the basics of the language, descriptive statistics, visual analytics, and applied linear regression.\n\n\nThis class takes a “learn by doing” approach. Weekly lectures and discussion section will focus on walking through code examples and giving students the opportunity to complete assignments in class. Students are strongly encouraged to follow along with the coding examples in class, which are hosted on Google Colab and are accessible from Canvas."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Syllabus",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
@@ -26,5 +26,12 @@
     "title": "Marcela Alfaro Córdoba",
     "section": "",
     "text": "Assistant Teaching Professor | University of California Santa Cruz | March 2021 - present\nAssistant Professor | Universidad de Costa Rica | June 2017 - Feb 2021"
+  },
+  {
+    "objectID": "index.html#learning-goals",
+    "href": "index.html#learning-goals",
+    "title": "STAT/CSE 266 A",
+    "section": "",
+    "text": "This class takes a “learn by doing” approach. Weekly lectures and discussion section will focus on walking through code examples and giving students the opportunity to complete assignments in class. Students are strongly encouraged to follow along with the coding examples in class, which are hosted on Google Colab and are accessible from Canvas."
   }
 ]
