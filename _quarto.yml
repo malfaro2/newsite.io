@@ -16,4 +16,12 @@ website:
       - assessments.qmd
       - weeks.qmd
   page-navigation: true
+  page-footer: 
+    left: "CC-BY, Marcela Alfaro Córdoba" 
+    right: 
+      - icon: github
+        href: https://github.com/malfaro2
+      - icon: twitter 
+        href: https://twitter.com/macordob
+        
 
