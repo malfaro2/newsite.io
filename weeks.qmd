@@ -1,7 +1,0 @@
----
-title: "Weekly Calendar"
-listing:
-  type: table
-  contents: posts
-  fields: [week, date, topics, reading, assessments]
----
